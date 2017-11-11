@@ -5,6 +5,7 @@
 body {
 	width: 100%;
 	margin: 0px;
+	background-color: #C7C1B7;
 	background-image: url(img/bg.jpg);
 	background-repeat: repeat-y no-repeat;
 	background-size: cover;
@@ -307,36 +308,55 @@ body {
 	margin-bottom: 20px;
 }
 
-.fa-twitter:hover {
+.icons.animated.pulse .fa-stack-1x:hover {
 	border-radius: 50%;
 	color: white;
+	background-color: grey;
+}
+
+.icons.animated.pulse .fa-twitter:hover {
 	background-color: #1da1f2;
 }
 
-.fa-facebook:hover {
-	border-radius: 50%;
-	color: white;
+.icons.animated.pulse .fa-facebook:hover {
 	background-color: #3b5998;
 }
 
-.fa-google-plus:hover {
-	border-radius: 50%;
-	color: white;
+.icons.animated.pulse .fa-google-plus:hover {
 	background-color: #dd4b39;
 }
 
-.fa-github:hover {
-	border-radius: 50%;
-	color: white;
+.icons.animated.pulse .fa-github:hover {
 	background-color: black;
 }
 
-.fa-instagram:hover {
-	border-radius: 50%;
-	color: white;
+.icons.animated.pulse .fa-instagram:hover {
 	background-color: #5851db;
 }
 
+.icons.animated.pulse .fa-delicious:hover {
+	background-color: #3676CC;
+}
+
+.icons.animated.pulse .fa-lastfm:hover {
+	background-color: #E4152B;
+}
+
+.icons.animated.pulse .fa-linkedin:hover {
+	background-color: #036795;
+}
+
+.icons.animated.pulse .fa-paypal:hover {
+	background-color: #01345B;
+}
+
+.icons.animated.pulse .fa-bitbucket:hover {
+	background-color: #0E48A0;
+}
+
+.icons.animated.pulse .fa-amazon:hover {
+	background-color: #FEBC76;
+}
 
 /*---------- ICONS ENDS---------------*/
 
