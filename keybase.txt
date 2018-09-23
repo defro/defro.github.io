@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/defro
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://defro.github.io
+  * I am defro (https://keybase.io/defro) on keybase.
+  * I have a public key ASAh99k56l8Y3AhFWMUt3CtqrG7bQrFSNAyCAyspQqXzHwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012021f7d939ea5f18dc084558c52ddc2b6aac6edb42b152340c82032b2942a5f31f0a",
+      "host": "keybase.io",
+      "kid": "012021f7d939ea5f18dc084558c52ddc2b6aac6edb42b152340c82032b2942a5f31f0a",
+      "uid": "02678d0ebd703e55e6e368c3f6f88e19",
+      "username": "defro"
+    },
+    "merkle_root": {
+      "ctime": 1537741487,
+      "hash": "d80d121e79c98acd6f915fcc58ab4a05be3623728a427b6fd3b8193122c5344c261e598260d32988c392ea87dca407e56f597a2df8361ba42ffa9e3916165d29",
+      "hash_meta": "e3c1fd4e5e2e788aab1c9f64496f144a63b84c317e82d3956cc20e668e5f0ef7",
+      "seqno": 3672136
+    },
+    "service": {
+      "entropy": "ImmXI4VfaC6C46RxhGqDq+eq",
+      "hostname": "defro.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.6.2"
+  },
+  "ctime": 1537741521,
+  "expire_in": 504576000,
+  "prev": "af9d601a191bdba0c84b3421a06060758ff339719809e278fa6504309cb9c7dd",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgIffZOepfGNwIRVjFLdwraqxu20KxUjQMggMrKUKl8x8Kp3BheWxvYWTESpcCBsQgr51gGhkb26DISzQhoGBgdY/zOXGYCeJ4+mUEMJy5x93EIGANWrIvJvAvgCmR2fewLhwR5XUNx8XSfVCqXSVOy+8yAgHCo3NpZ8RAjljg7JNH7jwGd72L8ThjraaWX1ewPDdb89qPg/gkKGxa0f+8o/IZTqWha1QmADoxRXZfBy+E2RJutFKbhmrMC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBqLbUefbGH5I2qH170q2531HQeyxRu0g5QQGwM9fValo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/defro
+
+==================================================================
