@@ -1,0 +1,176 @@
+[
+    {
+        "title": "Gladiator",
+        "img": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "url": "https://www.imdb.com/title/tt0172495/",
+        "rating": 8.5,
+        "year": 2000
+    },
+    {
+        "title": "Ip man",
+        "img": "https://m.media-amazon.com/images/M/MV5BNTFmMjM3M2UtOTIyZC00Zjk3LTkzODUtYTdhNGRmNzFhYzcyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "url": "https://www.imdb.com/title/tt1220719/",
+        "rating": 8.0,
+        "year": 2008
+    },
+    {
+        "title": "Django Unchained",
+        "img": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "url": "https://www.imdb.com/title/tt1853728/",
+        "rating": 8.4,
+        "year": 2012
+    },
+    {
+        "title": "Beasts of No Nation",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTYwMzMzMDI0NF5BMl5BanBnXkFtZTgwNDQ3NjI3NjE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "url": "https://www.imdb.com/title/tt1365050/",
+        "rating": 7.8,
+        "year": 2015
+    },
+    {
+        "title": "La Haine",
+        "img": "https://m.media-amazon.com/images/M/MV5BNDNiOTA5YjktY2Q0Ni00ODgzLWE5MWItNGExOWRlYjY2MjBlXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UY268_CR3,0,182,268_AL_.jpg",
+        "url": "https://www.imdb.com/title/tt0113247/",
+        "rating": 8.1,
+        "year": 1995
+    },
+    {
+        "title": "Le parfum - Histoire d'un meurtrier",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTI0NjUyMTk3Nl5BMl5BanBnXkFtZTcwOTA5MzkzMQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "url": "https://www.imdb.com/title/tt0396171/",
+        "rating": 7.5,
+        "year": 2006
+    },
+    {
+        "title": "The Prestige",
+        "img": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "url": "https://www.imdb.com/title/tt0482571/",
+        "rating": 8.5,
+        "year": 2006
+    },
+    {
+        "title": "The Warriors",
+        "img": "https://m.media-amazon.com/images/M/MV5BYTU2MWRiMTMtYzAzZi00NGYzLTlkMDEtNWQ3MzZlNTJlNzZkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "url": "https://www.imdb.com/title/tt0080120/",
+        "rating": 7.7,
+        "year": 1979
+    },
+    {
+        "title": "The Town",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTcyNzcxODg3Nl5BMl5BanBnXkFtZTcwMTUyNjQ3Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "url": "https://www.imdb.com/title/tt0840361/",
+        "rating": 7.6,
+        "year": 2010
+    },
+    {
+        "title": "Notorious",
+        "img": "https://m.media-amazon.com/images/M/MV5BMjA3ODUwOTg2NF5BMl5BanBnXkFtZTcwNjgwOTUwMg@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "url": "https://www.imdb.com/title/tt0472198/",
+        "rating": 6.7,
+        "year": 2009,
+        "heartbreak": true
+    },
+    {
+        "title": "Rockers",
+        "img": "https://m.media-amazon.com/images/M/MV5BOTIwNzcxNzk3OF5BMl5BanBnXkFtZTYwNjgwNjg4._V1_UY268_CR4,0,182,268_AL_.jpg",
+        "url": "https://www.imdb.com/title/tt0079815/",
+        "rating": 7.7,
+        "year": 1978,
+        "heartbreak": true
+    },
+    {
+        "title": "Pulp Fiction",
+        "img": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY268_CR1,0,182,268_AL_.jpg",
+        "url": "https://www.imdb.com/title/tt0110912/",
+        "rating": 8.9,
+        "year": 1994
+    },
+    {
+        "title": "Marley",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTg3NDUzMzQ2OF5BMl5BanBnXkFtZTcwNzY4NTE0Nw@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "url": "https://www.imdb.com/title/tt1183919/",
+        "rating": 8.0,
+        "year": 2002,
+        "heartbreak": true
+    },
+    {
+        "title": "How High",
+        "img": "https://m.media-amazon.com/images/M/MV5BZWZlNWE3MjctMDJmYS00ZTAyLWFkYmEtMzllNjU0ZDY5ODA2XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "url": "https://www.imdb.com/title/tt0278488/",
+        "rating": 6.3,
+        "year": 2001,
+        "heartbreak": true
+    },
+    {
+        "title": "Exit Through the Gift Shop",
+        "img": "https://m.media-amazon.com/images/M/MV5BMjE2NTg1NDM4Ml5BMl5BanBnXkFtZTcwMzMxOTkyMw@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "url": "https://www.imdb.com/title/tt1587707/",
+        "rating": 8.0,
+        "year": 2010,
+        "heartbreak": true
+    },
+    {
+        "title": "Fight Club",
+        "img": "https://m.media-amazon.com/images/M/MV5BMjJmYTNkNmItYjYyZC00MGUxLWJhNWMtZDY4Nzc1MDAwMzU5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "url": "https://www.imdb.com/title/tt0137523/",
+        "rating": 8.8,
+        "year": 1999
+    },
+    {
+        "title": "Fleur du désert",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTcwODMwMzA0MV5BMl5BanBnXkFtZTcwMTc3ODc1NA@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "url": "https://www.imdb.com/title/tt1054580/",
+        "rating": 7.4,
+        "year": 2009
+    },
+    {
+        "title": "The Departed",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "url": "https://www.imdb.com/title/tt0407887/",
+        "rating": 8.5,
+        "year": 2006
+    },
+    {
+        "title": "Straight Outta Compton",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTA5MzkyMzIxNjJeQTJeQWpwZ15BbWU4MDU0MDk0OTUx._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "url": "https://www.imdb.com/title/tt1398426/",
+        "rating": 7.9,
+        "year": 2015
+    },
+    {
+        "title": "Gainsbourg (Vie héroïque)",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTM1NTYxNDk4Ml5BMl5BanBnXkFtZTcwNDUwMTM2Mw@@._V1_.jpg",
+        "url": "https://www.imdb.com/title/tt1329457",
+        "rating": 6.9,
+        "year": 2010
+    },
+    {
+        "title": "La vita è bella",
+        "img": "https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "url": "https://www.imdb.com/title/tt0118799",
+        "rating": 8.6,
+        "year": 1997
+    },
+    {
+        "title": "Street Kings",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTkxMzE4ODM5MV5BMl5BanBnXkFtZTcwOTM4Mzk1MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "url": "https://www.imdb.com/title/tt0421073",
+        "rating": 6.8,
+        "year": 2008
+    },
+    {
+        "title": "Cidade de Deus",
+        "img": "https://m.media-amazon.com/images/M/MV5BMGU5OWEwZDItNmNkMC00NzZmLTk1YTctNzVhZTJjM2NlZTVmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg",
+        "url": "https://www.imdb.com/title/tt0317248",
+        "rating": 8.6,
+        "year": 2002,
+        "heartbreak": true
+    },
+    {
+        "title": "V for Vendetta",
+        "img": "https://m.media-amazon.com/images/M/MV5BYzllMjJkODAtYjMwMi00YmNhLWFhYzAtZjZjODg5YzEwOGUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY268_CR0,0,182,268_AL_.jpg",
+        "url": "https://www.imdb.com/title/tt0434409",
+        "rating": 8.2,
+        "year": 2005
+    }
+]
