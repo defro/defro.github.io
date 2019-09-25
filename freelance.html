@@ -40,76 +40,96 @@
     <script type="text/javascript">
         let websites = [
             {
-                name: "ProgOnline",
-                url: "https://www.progonline.com/"
+                name: "5 euros",
+                url: "https://5euros.com"
             },
             {
-                name: "Malt",
-                url: "https://www.malt.fr"
+                name: "Crème de la crème",
+                url: "https://cremedelacreme.io",
+                rating: 8,
+                description: "Inscription faite le Mercredi 11 Septembre"
             },
             {
-                name: "Skill Value",
-                url: "https://skillvalue.com/"
-            },
-            {
-                name: "humaniance",
-                url: "http://www.humaniance.com/"
-            },
-            {
-                name: "indeed",
-                url: "https://www.indeed.fr/Emplois-Freelance-php"
-            },
-            {
-                name: "Skill wise",
-                url: "http://www.skillwise.fr/"
-            },
-            {
-                name: "Freelance-info",
-                url: "https://www.freelance-info.fr/"
+                name: "Carriere-info",
+                url: "https://www.carriere-info.fr"
             },
             {
                 name: "Club freelance",
-                url: "https://www.club-freelance.com/"
+                url: "https://www.club-freelance.com/",
+                rating: 7,
+                description: "Démarchage par email, site un peu buggé"
             },
             {
                 name: "Freelance informatique",
                 url: "https://www.freelance-informatique.fr/"
             },
             {
-                name: "5 euros",
-                url: "https://5euros.com"
-            },
-            {
-                name: "Crème de la crème",
-                url: "https://cremedelacreme.io"
+                name: "Freelance-info",
+                url: "https://www.freelance-info.fr/",
+                rating: 7,
+                description: "Même site que carriere-info"
             },
             {
                 name: "Freelance Republik",
                 url: "https://www.freelancerepublik.com"
             },
             {
-                name: "Yoss",
-                url: "https://www.yoss.com"
+                name: "humaniance",
+                url: "http://www.humaniance.com/",
+                rating: 3,
+                description: "Moins spécialisé dans l'informatique"
             },
             {
-                name: "LinkedIn",
-                url: "https://www.linkedin.com/jobs/search/?keywords=freelance"
+                name: "indeed",
+                url: "https://www.indeed.fr/Emplois-Freelance-php"
             },
             {
                 name: "Le Hibou",
                 url: "https://www.lehibou.com"
             },
             {
-                name: "Monster",
-                url: "https://www.monster.fr/emploi/q-emploi-freelance-informatique.aspx"
-            },
-            {
                 name: "LesJeudis",
                 url: "https://www.lesjeudis.com/contrat/indépendant"
             },
             {
+                name: "LinkedIn",
+                url: "https://www.linkedin.com/jobs/search/?keywords=freelance"
+            },
+            {
+                name: "Malt",
+                url: "https://www.malt.fr"
+            },
+            {
+                name: "Monster",
+                url: "https://www.monster.fr/emploi/q-emploi-freelance-informatique.aspx"
+            },
+            {
+                name: "ProgOnline",
+                url: "https://www.progonline.com/",
+                rating: 5,
+                description: "Les prix sont bas et les porteurs ne répondent pas."
+            },
+            {
+                name: "Skill Value",
+                url: "https://skillvalue.com/jobs/fr/search/?_skl_contract_type=freelancing&_skl_status=activ"
+            },
+            {
+                name: "Skill wise",
+                url: "http://www.skillwise.fr/",
+                rating: 6,
+                description: "Pas beaucoup de missions proposées"
+            },
+            {
                 name: "Tous-Freelance",
                 url: "https://www.tous-freelance.com"
+            },
+            {
+                name: "UpWork",
+                url: "https://www.upwork.com"
+            },
+            {
+                name: "Yoss",
+                url: "https://www.yoss.com"
             },
             {
                 name: "XXE",
@@ -120,7 +140,7 @@
         let ul = $('ul#js-add-websites');
         websites.forEach(function(website, index) {
             let li = $('<li/>')
-                .addClass('list-group-item')
+                .addClass('list-group-item d-flex justify-content-between align-items-center')
                 .appendTo(ul);
             ;
             let a = $('<a/>')
@@ -129,6 +149,20 @@
                 .text(website.name)
                 .appendTo(li)
             ;
+            if (undefined !== website.description) {
+            	let p = $('<p/>')
+            		.addClass('mb-1')
+            		.text(website.description)
+            		.appendTo(li)
+            	;
+            }
+            if (undefined !== website.rating) {
+            	let p = $('<span/>')
+            		.addClass('badge badge-primary badge-pill')
+            		.text(website.rating)
+            		.appendTo(li)
+            	;
+            }
         });
     </script>
 
