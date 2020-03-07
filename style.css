@@ -360,6 +360,10 @@ body {
 
 /*---------- ICONS ENDS---------------*/
 
+.avatar {
+	text-align: center;
+}
+
 footer {
 	text-align: center;
 	color: white;

@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
    <head>
       <title>Joël Gaujard - Freelance web developer</title>
       <link rel="stylesheet" type="text/css" href="style.css">
-      <link rel="stylesheet" type="text/css" href="css/font-awesome.css">
+      <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
       <link rel="stylesheet" type="text/css" href="css/animate.css">
       <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
       <link href="https://fonts.googleapis.com/css?family=Montserrat:700" rel="stylesheet">
@@ -18,7 +18,9 @@
    <body>
       <!--Card-->
       <div class="card animated fadeIn">
-         <center><img class="center animated rollIn" src="img/avatar.png" alt="avatar"></center>
+         <div class="avatar">
+            <img class="center animated rollIn" src="img/avatar.png" alt="avatar" />
+         </div>
          <hr>
          <div class="name">
             Joël Gaujard
@@ -28,8 +30,8 @@
          </p>
          <p class="location">
             <i class="fa fa-building-o"></i>
-            <a href="http://www.pg-mc.com" target="_blank">
-               Platinium Group
+            <a href="https://www.synergie.mc" target="_blank">
+               Synergie Technologies
             </a>
          </p>
          <p class="icons animated pulse">
@@ -100,7 +102,7 @@
          &copy; 1981-<span id="js-current-year">2018</span>. Joël Gaujard.
       </footer>
 
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.slim.min.js" integrity="sha256-pasqAKBDmFT4eHoN2ndd6lN370kFiGUFyTiUHWhU7k8=" crossorigin="anonymous"></script>
+      <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.slim.min.js" integrity="sha256-pasqAKBDmFT4eHoN2ndd6lN370kFiGUFyTiUHWhU7k8=" crossorigin="anonymous"></script>
       <script type="text/javascript">
          let today = new Date();
          $('#js-current-year').text(today.getFullYear());
