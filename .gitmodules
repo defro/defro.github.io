@@ -1,0 +1,3 @@
+[submodule "swapi"]
+	path = swapi
+	url = git@github.com:defro/swapi.git
