@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: defro.github.io
+Token: 86c78612c2ea86d6f59ebcf422cffd3c0b476ca514153cd0d3b8c704f50d3cc4
